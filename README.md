@@ -47,6 +47,12 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Automatically log into websites using Python and Selenium.**  
 *Use Case:* Automate the process of logging into multiple accounts, saving time and effort by scripting repetitive login tasks.
 
+### 💱 **2. Currency Converter**  
+**A dynamic currency converter built with Python and Tkinter.**  
+*Use Case:* Quickly convert between different currencies using real-time exchange rates.
+
+
+
 ---
 
 ## 🌟 **Key Features**

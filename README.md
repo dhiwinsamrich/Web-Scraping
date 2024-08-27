@@ -51,6 +51,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **A dynamic currency converter built with Python and Tkinter.**  
 *Use Case:* Quickly convert between different currencies using real-time exchange rates.
 
+### 🖼️ **3. Download Images**  
+**Efficiently download images from any URL using Python and requests.**  
+*Use Case:* Bulk download images from websites for offline use, data collection, or analysis.
+
 
 
 ---

@@ -55,6 +55,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Efficiently download images from any URL using Python and requests.**  
 *Use Case:* Bulk download images from websites for offline use, data collection, or analysis.
 
+### 📧 **4. Email Extractor**  
+**Extract email addresses from text, websites, or documents using Python.**  
+*Use Case:* Automatically find and extract emails for marketing, data analysis, or contact management.
+
 
 
 ---

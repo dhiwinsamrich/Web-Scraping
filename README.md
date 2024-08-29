@@ -59,7 +59,9 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Extract email addresses from text, websites, or documents using Python.**  
 *Use Case:* Automatically find and extract emails for marketing, data analysis, or contact management.
 
-
+### 📝 **5. Extract and Fill Form**  
+**Automatically extract data from forms and fill out similar forms using Python.**  
+*Use Case:* Streamline repetitive form-filling tasks, such as filling out online applications or data entry forms, by automating the process.
 
 ---
 

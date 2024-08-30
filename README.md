@@ -63,6 +63,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Automatically extract data from forms and fill out similar forms using Python.**  
 *Use Case:* Streamline repetitive form-filling tasks, such as filling out online applications or data entry forms, by automating the process.
 
+### 📊 **6. Extract Google Trends Data**  
+**Extract and analyze trending data using Python and the pytrends library.**  
+*Use Case:* Monitor and analyze search trends over time, helping in market research, SEO optimization, and content strategy.
+
 ---
 
 ## 🌟 **Key Features**

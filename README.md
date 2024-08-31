@@ -67,6 +67,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Extract and analyze trending data using Python and the pytrends library.**  
 *Use Case:* Monitor and analyze search trends over time, helping in market research, SEO optimization, and content strategy.
 
+### 🌐 **7. Get Domain Info**  
+**Retrieve detailed information about any domain using Python and whois.**  
+*Use Case:* Fetch domain registration details, expiration dates, and more for cybersecurity analysis, domain management, or research purposes.
+
 ---
 
 ## 🌟 **Key Features**

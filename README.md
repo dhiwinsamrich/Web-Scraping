@@ -71,6 +71,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Retrieve detailed information about any domain using Python and whois.**  
 *Use Case:* Fetch domain registration details, expiration dates, and more for cybersecurity analysis, domain management, or research purposes.
 
+### 📝 **8. HTML Table Extractor**  
+**Extract and convert HTML tables into structured data formats using Python and BeautifulSoup.**  
+*Use Case:* Easily parse and transform HTML tables from web pages into formats like CSV or Excel for further analysis or reporting.
+
 ---
 
 ## 🌟 **Key Features**

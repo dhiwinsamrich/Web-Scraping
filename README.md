@@ -75,6 +75,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Extract and convert HTML tables into structured data formats using Python and BeautifulSoup.**  
 *Use Case:* Easily parse and transform HTML tables from web pages into formats like CSV or Excel for further analysis or reporting.
 
+### 🔗 **9. Link Extractor**  
+**Extract all hyperlinks from a webpage using Python and BeautifulSoup.**  
+*Use Case:* Quickly gather and analyze all links from a webpage for SEO purposes, data mining, or web scraping.
+
 ---
 
 ## 🌟 **Key Features**

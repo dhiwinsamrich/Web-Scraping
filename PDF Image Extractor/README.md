@@ -1,4 +1,4 @@
-# [How to Extract Images from PDF in Python](https://www.thepythoncode.com/article/extract-pdf-images-in-python)
+# [How to Extract Images from PDF in Python]()
 To run this:
 - `pip3 install -r requirements.txt`
 - To extract and save all images of `1710.05006.pdf` PDF file, you run:

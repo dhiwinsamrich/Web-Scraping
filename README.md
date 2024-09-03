@@ -79,6 +79,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Extract all hyperlinks from a webpage using Python and BeautifulSoup.**  
 *Use Case:* Quickly gather and analyze all links from a webpage for SEO purposes, data mining, or web scraping.
 
+### 📄 **10. PDF Image Extractor**  
+**Extract images from PDF files effortlessly using Python and PyPDF2.**  
+*Use Case:* Retrieve and save images from PDF documents for editing, analysis, or archiving.
+
 ---
 
 ## 🌟 **Key Features**

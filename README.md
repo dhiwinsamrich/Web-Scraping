@@ -83,6 +83,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Extract images from PDF files effortlessly using Python and PyPDF2.**  
 *Use Case:* Retrieve and save images from PDF documents for editing, analysis, or archiving.
 
+### 📄 **11. PDF URL Extractor**  
+**Extract all URLs embedded in a PDF file using Python and PyPDF2.**  
+*Use Case:* Retrieve and analyze links from PDF documents, useful for research, content auditing, and data extraction.
+
 ---
 
 ## 🌟 **Key Features**

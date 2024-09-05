@@ -87,6 +87,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Extract all URLs embedded in a PDF file using Python and PyPDF2.**  
 *Use Case:* Retrieve and analyze links from PDF documents, useful for research, content auditing, and data extraction.
 
+### 🌐 **12. Selenium Edge Browser**  
+**Automate web browsing tasks using Microsoft Edge and Selenium WebDriver.**  
+*Use Case:* Perform browser automation, such as filling out forms, clicking buttons, and scraping data on Microsoft Edge.
+
 ---
 
 ## 🌟 **Key Features**

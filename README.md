@@ -91,6 +91,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Automate web browsing tasks using Microsoft Edge and Selenium WebDriver.**  
 *Use Case:* Perform browser automation, such as filling out forms, clicking buttons, and scraping data on Microsoft Edge.
 
+### 🕵️ **13. Using Proxies**  
+**Scrape websites anonymously by routing requests through proxies using Python.**  
+*Use Case:* Bypass restrictions and avoid IP blocking when scraping large websites by using rotating proxies.
+
 ---
 
 ## 🌟 **Key Features**

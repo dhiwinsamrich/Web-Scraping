@@ -95,6 +95,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Scrape websites anonymously by routing requests through proxies using Python.**  
 *Use Case:* Bypass restrictions and avoid IP blocking when scraping large websites by using rotating proxies.
 
+### ⛅ **14. Weather Extractor**  
+**Extract real-time weather data for any location using Python and a weather API.**  
+*Use Case:* Fetch current weather conditions, temperature, and forecasts for cities worldwide.
+
 ---
 
 ## 🌟 **Key Features**

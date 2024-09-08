@@ -99,6 +99,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Extract real-time weather data for any location using Python and a weather API.**  
 *Use Case:* Fetch current weather conditions, temperature, and forecasts for cities worldwide.
 
+### 🖥️ **15. Webpage JS & CSS Extractor**  
+**Extract JavaScript and CSS files from any webpage using Python and BeautifulSoup.**  
+*Use Case:* Analyze and retrieve the JavaScript and CSS resources from a webpage for development or research purposes.
+
 ---
 
 ## 🌟 **Key Features**

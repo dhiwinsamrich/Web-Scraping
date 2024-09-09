@@ -103,6 +103,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Extract JavaScript and CSS files from any webpage using Python and BeautifulSoup.**  
 *Use Case:* Analyze and retrieve the JavaScript and CSS resources from a webpage for development or research purposes.
 
+### 📚 **16. Wikipedia Extractor**  
+**Extract and summarize content from Wikipedia pages using Python and the Wikipedia API.**  
+*Use Case:* Automatically retrieve relevant information and summaries from Wikipedia for research or content generation.
+
 ---
 
 ## 🌟 **Key Features**

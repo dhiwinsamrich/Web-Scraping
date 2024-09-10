@@ -107,6 +107,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Extract and summarize content from Wikipedia pages using Python and the Wikipedia API.**  
 *Use Case:* Automatically retrieve relevant information and summaries from Wikipedia for research or content generation.
 
+### 🎥 **17. YouTube Comments Extractor**  
+**Extract YouTube video comments using Python and the YouTube Data API.**  
+*Use Case:* Collect comments from YouTube videos for sentiment analysis, user feedback, or content analysis.
+
 ---
 
 ## 🌟 **Key Features**

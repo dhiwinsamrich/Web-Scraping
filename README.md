@@ -111,9 +111,13 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Extract YouTube video comments using Python and the YouTube Data API.**  
 *Use Case:* Collect comments from YouTube videos for sentiment analysis, user feedback, or content analysis.
 
-### 📹 **5. YouTube Extractor**  
+### 📹 **18. YouTube Extractor**  
 **Extract video and audio from YouTube using Python and `pytube`.**  
 *Use Case:* Download YouTube videos or extract audio for offline viewing and analysis.
+
+### 🎵 **19. YouTube MP3 Downloader**  
+**Convert and download YouTube videos as MP3 files using Python and pytube.**  
+*Use Case:* Easily download audio from YouTube videos for offline listening or audio extraction.
 
 ---
 

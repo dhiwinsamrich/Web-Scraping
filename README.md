@@ -119,6 +119,10 @@ git clone https://github.com/yourusername/Web-Scraping.git
 **Convert and download YouTube videos as MP3 files using Python and pytube.**  
 *Use Case:* Easily download audio from YouTube videos for offline listening or audio extraction.
 
+### 📹 **20. YouTube Video Downloader**  
+**Download YouTube videos in various resolutions using Python and the pytube library.**  
+*Use Case:* Save YouTube videos locally for offline viewing or content analysis.
+
 ---
 
 ## 🌟 **Key Features**
